@@ -1,0 +1,11 @@
+{
+    "name":"coderomance",
+    "short_name":"coder",
+    "start_url":"/",
+    "scope":".",
+    "display":"standalone",
+    "orientation":"any",
+    "background_color":"#fff",
+    "theme_color":"#3f51b5",
+
+}
